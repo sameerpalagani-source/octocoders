@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-Imagine I am your updated source code: this new line changes the version you saved in the previous task.
-<<<<<<< HEAD
-=======
-Imagine I am your updated source code: this new line changes the version you saved in the previous task..
->>>>>>> Stashed changes
-=======
-This message was added on practice-branch.
->>>>>>> practice-branch
+Our team reviews changes before adding them to main.
