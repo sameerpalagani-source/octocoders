@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Imagine I am your updated source code: this new line changes the version you saved in the previous task.
+=======
+Imagine I am your updated source code: this new line changes the version you saved in the previous task..
+>>>>>>> Stashed changes
